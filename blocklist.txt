@@ -53,3 +53,5 @@ control.ctrl11.xyz
 fhelps.live
 mkpks.info
 rmpk.info
+https://control.ctrl10.pw/
+pcsupport.life
