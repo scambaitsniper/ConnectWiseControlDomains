@@ -55,3 +55,4 @@ mkpks.info
 rmpk.info
 https://control.ctrl10.pw/
 pcsupport.life
+https://vassist.live/
