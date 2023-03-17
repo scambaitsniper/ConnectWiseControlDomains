@@ -69,4 +69,3 @@ akpd.live
 mtwk.info
 mpsys.us
 acareme.cc
-linktr.ee/msserver
