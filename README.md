@@ -21,8 +21,9 @@ This shows the maturity of the threat actors, because if you visit this page fro
 
 To download the "client", you must have some indication that the TA is engaging a victim and that the server is hosting the malware for download.
 To retrieve the .exe you must add https before the IP (this will give you cert error bc it was issued for domains and not ip).
-Then append /Bin/ConnectWise.Client.exe to the end of the IP. ex https://80.241.218.128/Bin/ConnectWise.Client.exe
-
+Then append /Bin/ConnectWise.Client.exe to the end of the IP. 
+eg. https://80.241.218.128/Bin/ConnectWise.Client.exe
+eg. https://dwsk.info/Bin/ConnectWiseControl.Client.exe
 Depending on which ports are open, you might have to add port 2000 or similar before /bin..
 ![image](https://user-images.githubusercontent.com/126899048/230540464-2ccea94b-7730-4e70-9c18-e02dbe40fcc8.png)
 I have also found that they have RDP open more often than not.
