@@ -123,3 +123,5 @@ os911.org
 sup2.supos911.org
 qhelps.cc
 caremed.life
+sshelp.cc
+shelp.info 
