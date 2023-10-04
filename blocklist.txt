@@ -244,3 +244,4 @@ lefty247.top
 norhelp.site
 nk.t247.help
 helpfultech.top
+dt.s247.help 
